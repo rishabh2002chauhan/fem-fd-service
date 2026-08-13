@@ -1,7 +1,7 @@
 [![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)](https://frontendmasters.com/courses/fullstack-deployment)
 This is a companion repository for the [Modern Deployment](https://frontendmasters.com/courses/fullstack-deployment) course on Frontend Masters. The repository contains an example Go application that will be deployed to AWS.
 
-## goals Application
+## Goals Application
 
 This application is a social media platform for setting and sharing life goals and aspirations.
 
