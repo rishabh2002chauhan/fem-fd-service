@@ -26,7 +26,7 @@ module "cluster" {
 
   capacity_providers = {
     "spot" = {
-      instance_type = "t3.micro"
+      instance_type = "t3.small"
       market_type   = "spot"
     }
   }
